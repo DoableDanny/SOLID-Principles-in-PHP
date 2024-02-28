@@ -4,6 +4,10 @@
 
 `php -S localhost:8000`
 
+## How to use this repo
+
+You can just read through each principle in the php files.
+
 Uncomment and play with code to see results for each principle.
 
 ## References
