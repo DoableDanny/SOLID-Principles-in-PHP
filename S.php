@@ -1,5 +1,4 @@
 <?php 
-// https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#liskov-substitution-principle
 
 // Single responsibility principle (https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html)
 // a class should only have one reason to change, meaning a class should only have one job.
